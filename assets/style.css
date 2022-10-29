@@ -542,6 +542,7 @@ footer p2{
     background-image: url(./mobile/image-map.png);
     min-height: 500px;
     width: 100vw;
+    max-width: 1251px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -556,6 +557,7 @@ footer p2{
     width: 100%;
 }
 .content__block2{
+    width: 100%;
     padding: 2rem 2rem 2rem 1rem;
     background-color: var(--dark-black);
 }
